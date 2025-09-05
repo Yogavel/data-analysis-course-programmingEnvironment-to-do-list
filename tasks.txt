@@ -3,4 +3,3 @@
 ● Complete Git lesson
 ● Review Python basics
 ● Start Python exercises
-Complete
